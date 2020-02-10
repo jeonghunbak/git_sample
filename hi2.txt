@@ -1,1 +1,5 @@
 hello(master)
+<<<<<<< HEAD
+=======
+bye(hotfix)
+>>>>>>> hotfix
